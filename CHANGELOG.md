@@ -1,3 +1,5 @@
+# 3.1.3
+  - Add support for using a hash as tags
 # 3.1.2
   - Depend on logstash-core-plugin-api instead of logstash-core, removing the need to mass update plugins on major releases of logstash
 # 3.1.1
